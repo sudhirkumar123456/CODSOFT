@@ -30,7 +30,7 @@ List the software, tools, and dependencies required to run the project. Include 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-internship-project.git
+   git clone https://github.com/sudhirkumar123456/CODSOFT
 Change into the project directory:
 
 bash
