@@ -9,18 +9,13 @@ Welcome to the CodeSoft Internship Web Development Tasks repository! This reposi
 - [Project Overview](#Webdevelopement)
 - [Getting Started](#WebdevelopementTAsk)
   - [Prerequisites](#HTML,CSS, VsCode-IDE)
-  - [Installation](#installation)
-- [Project Structure](#project-structure)
+  - [Installation](#VsCode-ID)
+- [Project Structure](#Task)
 - [Development Workflow](#development-workflow)
-- [Task List](#task-list)
-- [Contributing](#contributing)
-- [Feedback and Support](#feedback-and-support)
-- [License](#license)
-
+- [Task List](#Landing Page #portfolioPage #calculator)
 ## Project Overview
 
-Provide a brief overview of the project, its goals, and the technologies used. Include any important context or background information that the intern should be aware of before diving into the code.
-
+This project aims to enhance your web development skills by completing a series of hands-on tasks. You'll be working on building and improving web applications using modern technologies and best practices.
 ## Getting Started
 
 Follow these steps to set up the project on your local machine.
@@ -29,10 +24,7 @@ Follow these steps to set up the project on your local machine.
 
 List the software, tools, and dependencies required to run the project. Include links to download or install them.
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-- [Database Management System (if applicable)]
-
+- [Vs-Code _ IDE)
 ### Installation
 
 1. Clone this repository to your local machine:
@@ -70,14 +62,12 @@ Explain the development workflow, including how to run the development server, b
 
 bash
 Copy code
-# Run the development server
-npm start
 
 # Build the project for production
 npm run build
 Task List
 List the tasks that the intern needs to complete as part of the web development internship. Provide links to detailed instructions or relevant documentation.
 
-Task 1: Task Title
-Task 2: Task Title
-...
+Task 1: Landing Page
+Task 2: portfolioPage
+Task 2: calculator
